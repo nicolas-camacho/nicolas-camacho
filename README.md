@@ -3,7 +3,7 @@
 
 I'm Nicolas Camacho. I'm web developer focused on front end technologies, I'm very passionate about open-source and new technologies.
 
-🔭 I'm currently working at @ideaware as a Front-end developer.
+🔭 I'm currently working at @zemoga as a Front-end developer.
 
 🌱 I'm currently learning pixel art and game development.
 
