@@ -5,7 +5,7 @@ I'm Nicolas Camacho. I'm web developer focused on front end technologies, I'm ve
 
 🔭 I'm currently working at @zemoga as a Front-end developer.
 
-🌱 I'm currently learning pixel art and game development.
+🌱 I'm currently learning game development and the Go programming language.
 
 🔍 I'm currently looking to make my own ambitious game and to keep growing on my career.
 
