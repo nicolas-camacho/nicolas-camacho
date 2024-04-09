@@ -3,7 +3,7 @@
 
 I'm Nicolas Camacho. I'm software engeenier focused on front end technologies, I'm very passionate about open-source and new <strong>technologies</strong>.
 
-🔭 I'm currently working at @zemoga as a Front-end developer.
+🔭 I'm currently working at @twilio as a Software engineer.
 
 🌱 I'm currently learning game development and the Go programming language.
 
