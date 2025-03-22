@@ -5,7 +5,7 @@ I'm Nicolas Camacho. I'm software engeenier focused on front end technologies, I
 
 🔭 I'm currently working at @twilio as a Software engineer.
 
-🌱 I'm currently learning game development and the Go programming language.
+🌱 I'm currently learning game development.
 
 🔍 I'm currently looking to make my own ambitious game and to keep growing on my career.
 
